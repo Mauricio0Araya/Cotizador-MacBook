@@ -1,0 +1,84 @@
+/* app.css */
+
+/* Estilo global */
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: #121212; /* Fondo oscuro */
+    color: #ffffff; /* Texto blanco */
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    text-align: center;
+  }
+  
+  .container {
+    width: 100%;
+    max-width: 1200px;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+  }
+  
+  img {
+    max-width: 100%;
+    border-radius: 50%;
+  }
+  
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 0.5rem;
+    background-color: #333333;
+    color: #ffffff;
+  }
+  
+  .form-control::placeholder {
+    color: #aaaaaa;
+  }
+  
+  .btn {
+    background-color: #007bff;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    color: #ffffff;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 10px;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .alert {
+    margin-top: 20px;
+    padding: 1rem;
+    border-radius: 4px;
+  }
+  
+  .alert-danger {
+    background-color: #dc3545;
+    color: #ffffff;
+  }
+  
+  .alert-success {
+    background-color: #28a745;
+    color: #ffffff;
+  }
+  
+

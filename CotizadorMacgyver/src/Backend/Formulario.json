@@ -1,0 +1,185 @@
+{
+    "productos": [
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Reparación en placa - Nivel 1",
+        "precioIVA": "$147.000"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Reparación en placa - Nivel 2",
+        "precioIVA": "$189.000"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Unidad SSD 240 GB",
+        "precioIVA": "$65.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Unidad SSD 480 GB",
+        "precioIVA": "$98.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Unidad SSD 960 GB",
+        "precioIVA": "$142.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Unidad SSD 2 TB",
+        "precioIVA": "$199.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Baño Químico",
+        "precioIVA": "$89.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Batería A1278",
+        "precioIVA": "$99.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Flex Disco HDD",
+        "precioIVA": "$47.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Trackpad",
+        "precioIVA": "$68.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Teclado SPA/ING/FRN",
+        "precioIVA": "$73.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Jack Power",
+        "precioIVA": "$47.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Glass Macbook Pro 2010-2012",
+        "precioIVA": "$89.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Pantalla Led 30 pines",
+        "precioIVA": "$147.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Desbloqueo Efi iCloud",
+        "precioIVA": "$94.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Flex Pantalla",
+        "precioIVA": "$99.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "RAM 16 GB DDR3 SODIMM 1600MHZ",
+        "precioIVA": "$98.000"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "RAM 8GB DDR3 SODIMM 1600MHZ",
+        "precioIVA": "$59.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Ventilador",
+        "precioIVA": "$68.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Modulo Redes wifi / bluetooth",
+        "precioIVA": "$89.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Programación BIOS (Firmware)",
+        "precioIVA": "$63.000"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Indicador Led batería",
+        "precioIVA": "$31.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Backlitgh teclado",
+        "precioIVA": "$26.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Juego de Parlantes",
+        "precioIVA": "$42.000"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Flex Bluetooth / WiFI",
+        "precioIVA": "$42.000"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Set 4 topes para base",
+        "precioIVA": "$10.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Pack Tornillos Base",
+        "precioIVA": "$10.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Flex cámara",
+        "precioIVA": "$84.000"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Bisel Cubre Bisagra",
+        "precioIVA": "$40.000"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Placa base MacBook Pro A1278 / intel core i5",
+        "precioIVA": "$210.000"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Topcase MacBook pro A1278",
+        "precioIVA": "$89.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Soporte Disco HDD A1278",
+        "precioIVA": "$5.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Micrófono",
+        "precioIVA": "$24.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Tornillos soporte disco HDD x4",
+        "precioIVA": "$3.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Lector de CD Macbook Pro",
+        "precioIVA": "$14.990"
+      },
+      {
+        "modelo": "Macbook Pro 13\" A1278",
+        "producto": "Bisagras Lcd Macbook Pro A1278",
+        "precioIVA": "$45.000"
+      }
+    ]
+  }
+  
